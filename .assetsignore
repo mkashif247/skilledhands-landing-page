@@ -1,0 +1,8 @@
+.git
+.gitignore
+.wrangler
+wrangler.jsonc
+.DS_Store
+.thumbnail
+screenshots
+uploads
