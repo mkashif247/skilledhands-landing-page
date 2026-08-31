@@ -9,10 +9,10 @@ Static site — plain HTML, CSS, and JavaScript, no build step or framework. Dep
 ## Project structure
 
 ```
-index.html       Page markup and content
+index.html       Page markup and content (new landing page design)
 styles.css       All styling
-image-slot.js    Drag-and-drop image placeholder component (used for editable mockup images)
-assets/          Images (logos, backgrounds)
+translations.js  5-language i18n support (EN, ES, IT, DE, FR)
+assets/          Images (logos, backgrounds, icons)
 fonts/           Self-hosted Ubuntu font files
 wrangler.jsonc   Cloudflare Workers deployment config
 ```
