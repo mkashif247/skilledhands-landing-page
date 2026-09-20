@@ -364,3 +364,107 @@ h1,h2,h3 { line-height: 1.12; letter-spacing: -0.015em; text-wrap: balance; }
   .feat-grid, .trade-grid { grid-template-columns: 1fr; }
   .footer-grid { grid-template-columns: 1fr; }
 }
+
+/* ── Legal / Policy Pages ───────────────────────── */
+.legal-page {
+  padding: 60px 0 90px;
+  background: var(--color-white);
+}
+.legal-header {
+  margin-bottom: 36px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--color-muted-20);
+}
+.legal-header h1 {
+  font-size: 40px;
+  font-weight: 700;
+  color: var(--color-dark);
+  margin-bottom: 12px;
+}
+.legal-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  align-items: center;
+  font-size: 14px;
+  color: var(--color-muted);
+}
+.legal-meta .dot {
+  display: inline-block;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--color-muted);
+}
+.legal-meta a {
+  color: var(--color-secondary);
+  font-weight: 500;
+  text-decoration: underline;
+}
+.legal-meta a:hover {
+  color: var(--color-primary);
+}
+
+.legal-body {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #384250;
+  max-width: 860px;
+}
+.legal-body h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-top: 36px;
+  margin-bottom: 14px;
+  letter-spacing: -0.01em;
+}
+.legal-body h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--color-dark);
+  margin-top: 24px;
+  margin-bottom: 10px;
+}
+.legal-body p {
+  margin-bottom: 18px;
+}
+.legal-body ul, .legal-body ol {
+  margin-bottom: 20px;
+  padding-left: 24px;
+}
+.legal-body li {
+  margin-bottom: 10px;
+  line-height: 1.65;
+}
+.legal-body strong {
+  color: var(--color-dark);
+}
+.legal-body a {
+  color: var(--color-secondary);
+  text-decoration: underline;
+  word-break: break-word;
+}
+.legal-body a:hover {
+  color: var(--color-primary);
+}
+.compliance-box {
+  background: var(--color-primary-light);
+  border-left: 4px solid var(--color-secondary);
+  padding: 20px 24px;
+  border-radius: var(--radius-sm);
+  margin: 28px 0;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #1c3d5a;
+}
+.compliance-box strong {
+  color: var(--color-primary);
+}
+
+@media (max-width: 640px) {
+  .legal-page { padding: 40px 0 60px; }
+  .legal-header h1 { font-size: 30px; }
+  .legal-body { font-size: 15px; }
+  .legal-body h2 { font-size: 20px; margin-top: 28px; }
+}

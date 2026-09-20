@@ -34,7 +34,7 @@ ES: {
 "tr.a":"Pintura","tr.ap":"Interior, exterior y decoración, con acabados limpios siempre.",
 "dl.eyebrow":"Empieza hoy","dl.h2":"Tu próximo trabajo empieza en la app","dl.sub":"Descarga SkilledHands gratis y únete a miles de clientes y profesionales que ya están trabajando.",
 "ft.blurb":"El marketplace que conecta a clientes con profesionales locales de confianza. Publica un trabajo, compara ofertas y hazlo realidad.",
-"ft.browse":"Ver oficios","ft.findJobs":"Buscar trabajos","ft.company":"Empresa","ft.about":"Sobre nosotros","ft.trust":"Confianza y seguridad","ft.rights":"Todos los derechos reservados."
+"ft.browse":"Ver oficios","ft.findJobs":"Buscar trabajos","ft.company":"Empresa","ft.about":"Sobre nosotros","ft.trust":"Confianza y seguridad","ft.privacy":"Política de privacidad","ft.terms":"Términos del servicio","ft.rights":"Todos los derechos reservados."
 },
 IT: {
 "nav.tabHome":"Home","nav.tabProfile":"Profilo","nav.tabJobs":"Lavori","nav.tabAlerts":"Avvisi","nav.tabSearch":"Cerca","nav.tabStats":"Statistiche","nav.how":"Come funziona","nav.why":"Perché SkilledHands","nav.trades":"Mestieri","nav.forTrades":"Per professionisti","nav.getApp":"Scarica l'app",
@@ -69,7 +69,7 @@ IT: {
 "tr.a":"Imbiancatura","tr.ap":"Interni, esterni e decorazioni, con finiture pulite ogni volta.",
 "dl.eyebrow":"Inizia oggi","dl.h2":"Il tuo prossimo lavoro inizia nell'app","dl.sub":"Scarica SkilledHands gratis e unisciti a migliaia di clienti e professionisti che stanno già lavorando.",
 "ft.blurb":"Il marketplace che collega i clienti a professionisti locali di fiducia. Pubblica un lavoro, confronta le offerte, portalo a termine.",
-"ft.browse":"Sfoglia i mestieri","ft.findJobs":"Trova lavori","ft.company":"Azienda","ft.about":"Chi siamo","ft.trust":"Fiducia e sicurezza","ft.rights":"Tutti i diritti riservati."
+"ft.browse":"Sfoglia i mestieri","ft.findJobs":"Trova lavori","ft.company":"Azienda","ft.about":"Chi siamo","ft.trust":"Fiducia e sicurezza","ft.privacy":"Informativa sulla privacy","ft.terms":"Termini di servizio","ft.rights":"Tutti i diritti riservati."
 },
 DE: {
 "nav.tabHome":"Start","nav.tabProfile":"Profil","nav.tabJobs":"Aufträge","nav.tabAlerts":"Hinweise","nav.tabSearch":"Suche","nav.tabStats":"Statistik","nav.how":"So funktioniert's","nav.why":"Warum SkilledHands","nav.trades":"Gewerke","nav.forTrades":"Für Handwerker","nav.getApp":"App holen",
@@ -104,7 +104,7 @@ DE: {
 "tr.a":"Malerarbeiten","tr.ap":"Innen, außen und Dekoration, mit sauberen Kanten jedes Mal.",
 "dl.eyebrow":"Jetzt starten","dl.h2":"Ihr nächster Auftrag beginnt in der App","dl.sub":"Laden Sie SkilledHands kostenlos und schließen Sie sich Tausenden Kunden und Handwerkern an, die schon arbeiten.",
 "ft.blurb":"Der Marktplatz, der Kunden mit geprüften Handwerkern aus der Region verbindet. Auftrag einstellen, Angebote vergleichen, erledigen lassen.",
-"ft.browse":"Gewerke ansehen","ft.findJobs":"Aufträge finden","ft.company":"Unternehmen","ft.about":"Über uns","ft.trust":"Vertrauen und Sicherheit","ft.rights":"Alle Rechte vorbehalten."
+"ft.browse":"Gewerke ansehen","ft.findJobs":"Aufträge finden","ft.company":"Unternehmen","ft.about":"Über uns","ft.trust":"Vertrauen und Sicherheit","ft.privacy":"Datenschutzrichtlinie","ft.terms":"Nutzungsbedingungen","ft.rights":"Alle Rechte vorbehalten."
 },
 FR: {
 "nav.tabHome":"Accueil","nav.tabProfile":"Profil","nav.tabJobs":"Chantiers","nav.tabAlerts":"Alertes","nav.tabSearch":"Recherche","nav.tabStats":"Stats","nav.how":"Comment ça marche","nav.why":"Pourquoi SkilledHands","nav.trades":"Métiers","nav.forTrades":"Pour les artisans","nav.getApp":"Obtenir l'app",
@@ -139,6 +139,6 @@ FR: {
 "tr.a":"Peinture","tr.ap":"Intérieur, extérieur et décoration, avec des finitions nettes à chaque fois.",
 "dl.eyebrow":"Commencez aujourd'hui","dl.h2":"Votre prochain chantier commence dans l'app","dl.sub":"Téléchargez SkilledHands gratuitement et rejoignez des milliers de clients et d'artisans déjà au travail.",
 "ft.blurb":"La plateforme qui relie les clients à des artisans de confiance près de chez eux. Publiez un chantier, comparez les offres, faites-le réaliser.",
-"ft.browse":"Parcourir les métiers","ft.findJobs":"Trouver des chantiers","ft.company":"Entreprise","ft.about":"À propos","ft.trust":"Confiance et sécurité","ft.rights":"Tous droits réservés."
+"ft.browse":"Parcourir les métiers","ft.findJobs":"Trouver des chantiers","ft.company":"Entreprise","ft.about":"À propos","ft.trust":"Confiance et sécurité","ft.privacy":"Politique de confidentialité","ft.terms":"Conditions d'utilisation","ft.rights":"Tous droits réservés."
 }
 };
